@@ -2,6 +2,10 @@
 
 Final capstone project for Meta Front-end developer program on Coursera, which contains a detailed and responsive website with table-booking functionality built using React.
 
+### Install, Test and Run:
+
+- Use 'npm run auto' on the root dir of project, it will performs tests and then it will start the application.
+
 ## Screenshot
 
 ### Home Page
@@ -23,10 +27,6 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 - react-router-dom
 - react-responsive-carousel
 - Meta front-end table-booking API
-
-### Install and Run:
-
-- Run 'npm start' on the reserve-a-table folder
 
 ### Author
 
