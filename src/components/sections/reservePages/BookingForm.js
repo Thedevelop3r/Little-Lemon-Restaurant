@@ -12,7 +12,7 @@ export default function ReservationForm(props) {
   const [comments, setComments] = useState("");
 
   const [finalTime, setFinalTime] = useState(
-    props.availableTimes.map((times) => <option>{times}</option>)
+    props.availableTimes.map((times) => <option key={times} >{times}</option>)
   );
 
   function handleDateChange(e) {
